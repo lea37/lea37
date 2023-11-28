@@ -1,2 +1,2 @@
-- [website](https://lea-tortay.com/)
-- [twitter](https://twitter.com/lea_tortay)
+[UX engineer](https://lea-tortay.com/) with more than a decade in the ever-evolving digital landscape.
+I am building user-friendly interfaces, smooth experience and cutting-edge solutions to meet the unique needs of clients and their users.
